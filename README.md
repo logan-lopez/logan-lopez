@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Logan Lopez
+
+---
+
+### 🚀 About Me
+
+I'm a Full Stack Engineer with a passion for building robust, user-friendly web applications. I thrive on solving complex problems, learning new technologies, and delivering solutions that just work (at least on my machine)!
+
+---
+
+### 🛠️ Top Skills
+
+- **Backend:** PHP / Laravel
+- **Frontend:** Laravel Livewire, AlpineJS, VueJS, Nuxt
+- **Languages:** TypeScript, Python
+- **Cloud:** AWS
+
+---
+
+### 📫 Social Links
+
+*Coming soon!*
+
+---
 
 <!--
-**logan-lopez/logan-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+No real public repos to highlight right now. Stay tuned for future projects!
 -->
