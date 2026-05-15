@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Logan Lopez
+# Hi, I'm Logan Lopez
 
 Full-stack developer, 11 years in, usually the only developer on whatever I'm shipping. I'm good at taking a vague requirement on a small team and turning it into a working system — architecture, deployment, and the long support tail that comes after. Started writing production code in high school and never really stopped.
 
 ## 🛠️ What I work in
 
-**Primary stack:** TALL — Laravel, Livewire, Alpine.js, Tailwind
-**Also comfortable in:** Vue / Nuxt, React, Node, TypeScript, C#, Python, Kotlin
-**Infra:** AWS, Laravel Vapor, Docker, GitHub Actions
+- **Primary stack:** TALL — Laravel, Livewire, Alpine.js, Tailwind
+- **Also comfortable in:** Vue / Nuxt, React, Node, TypeScript, C#, Python, Kotlin
+- **Infra:** AWS, Laravel Vapor, Docker, GitHub Actions
 
 ## 🔧 Things I've built for myself
 
