@@ -23,12 +23,6 @@ If I hit the same friction twice, the third time I usually automate it.
 
 Rust (made it through Rustlings), Doom Emacs and Org-mode — which means I'm learning Lisp whether I meant to or not.
 
-## 📫 Find me
-
-- GitHub: [@logan-lopez](https://github.com/logan-lopez)
-- LinkedIn: [logan-lopez-dev](https://linkedin.com/in/logan-lopez-dev)
-- Email: loganlopezdev@gmail.com
-
 ---
 
 *Outside of code: writing a fantasy series, fishing, a deeply unserious mechanical keyboard habit, and a dog named Maya who's unimpressed by all of it.*
